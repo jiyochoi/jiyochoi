@@ -3,7 +3,7 @@ Jiyo Choi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyochoi)](https://github.com/jiyochoi/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyochoi)](https://solved.ac/jiyochoi)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyoz)](https://solved.ac/jiyoz)
 
 <!---
 jiyochoi/jiyochoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
